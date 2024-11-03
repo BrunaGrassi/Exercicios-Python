@@ -1,4 +1,4 @@
-# criar um algoritmo que receba um numero e determine se ele é par ou impar
+# Exercício 1: Criar um algoritmo que receba um numero e determine se ele é par ou impar
 
 numero = int(input("Digite um número inteiro: "))
 if (numero % 2) == 0 :
